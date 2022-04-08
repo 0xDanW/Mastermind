@@ -5,4 +5,4 @@ Mastermind is a **digital imitation of the Mastermind Board Game**, which is a c
 ## How To Run
 1. Please ensure that you have at least [Python 3.8 version](https://www.python.org/downloads/) installed.
 2. Clone the repository with your preferred Git client or download the ZIP file of the repository.
-3. 
+3. To run the code, you may used your preferred code editor such as [Visual Studio Code](https://code.visualstudio.com/), [Python IDLE](https://docs.python.org/3/library/idle.html), etc.
